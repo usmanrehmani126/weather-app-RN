@@ -1,8 +1,11 @@
 
-> Weather Monkey : Your ultimate Weather APP 
-> ![Thumbnail Of the project](https://usmandotdev.netlify.app/static/media/wea1.f37ec6a508bfc0c74019.jpeg)
-> ![Thumbnail Of the project](https://usmandotdev.netlify.app/static/media/wea3.47bf8e24a0d2ae74d6d3.jpeg)
-> ![Thumbnail Of the project](https://usmandotdev.netlify.app/static/media/wea2.13cf36403791315c82a0.jpeg)
+> Weather Monkey : Your ultimate Weather APP
+<p align="center">
+  <img src="https://usmandotdev.netlify.app/static/media/wea1.f37ec6a508bfc0c74019.jpeg" alt="Image 1" width="200" height="400" />
+  <img src="https://usmandotdev.netlify.app/static/media/wea3.47bf8e24a0d2ae74d6d3.jpeg" alt="Image 2" width="200" height="400" />
+  <img src="https://usmandotdev.netlify.app/static/media/wea2.13cf36403791315c82a0.jpeg" alt="Image 3" width="200" height="400" />
+</p>
+
 
 > Follow us for more projects like this [Check on our website](https://usmandotdev.netlify.app/)
 
